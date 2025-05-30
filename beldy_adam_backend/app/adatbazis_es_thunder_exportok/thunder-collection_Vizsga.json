@@ -1,0 +1,77 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Vizsga",
+    "collectionId": "b2c756e3-e825-4096-9040-6bd320d6d71f",
+    "dateExported": "2025-05-30T06:36:30.720Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "1fcc1d37-3455-4a0d-a1ab-971f450600ec",
+            "colId": "b2c756e3-e825-4096-9040-6bd320d6d71f",
+            "containerId": "",
+            "name": "getSzavak",
+            "url": "http://localhost:8000/api/szavak",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-05-30T06:23:11.819Z",
+            "modified": "2025-05-30T06:26:11.129Z",
+            "headers": [
+                {
+                    "name": "Accept",
+                    "value": "application/json"
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Thunder Client (https://www.thunderclient.com)",
+                    "isDisabled": true
+                }
+            ]
+        },
+        {
+            "_id": "f4d853b1-80e7-414d-bb56-a0457b56f77a",
+            "colId": "b2c756e3-e825-4096-9040-6bd320d6d71f",
+            "containerId": "",
+            "name": "getTemak",
+            "url": "http://localhost:8000/api/tema",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-05-30T06:26:15.252Z",
+            "modified": "2025-05-30T06:26:30.853Z",
+            "headers": [
+                {
+                    "name": "Accept",
+                    "value": "application/json"
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Thunder Client (https://www.thunderclient.com)",
+                    "isDisabled": true
+                }
+            ]
+        },
+        {
+            "_id": "5d608419-e53a-40cb-b90b-3defdb823521",
+            "colId": "b2c756e3-e825-4096-9040-6bd320d6d71f",
+            "containerId": "",
+            "name": "getSzavakByTema",
+            "url": "http://localhost:8000/api/szavak/tema",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2025-05-30T06:28:19.987Z",
+            "modified": "2025-05-30T06:28:38.116Z",
+            "headers": [
+                {
+                    "name": "Accept",
+                    "value": "application/json"
+                },
+                {
+                    "name": "User-Agent",
+                    "value": "Thunder Client (https://www.thunderclient.com)",
+                    "isDisabled": true
+                }
+            ]
+        }
+    ],
+    "ref": "HQNaAbfUg94NAWeWo0uiwSwxZd2PVgQa6kVlz4M-ktTmORyCx2xHxxqLcq7FTeTP9Vv4-cghV3jh-E667Ot6Gw"
+}
